@@ -1,2 +1,2 @@
 # adeabusiness.github.io
-adea.live
+www.adea.live
